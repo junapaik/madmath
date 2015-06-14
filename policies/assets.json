@@ -1,0 +1,25 @@
+{
+    "madmath-poster.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "M1", 
+            "name": "madmath-poster.jpg", 
+            "org": "BraveBrain", 
+            "revision": null, 
+            "tag": "c4x"
+        }, 
+        "displayname": "madmath-poster.jpg", 
+        "filename": "/c4x/BraveBrain/M1/asset/madmath-poster.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "BraveBrain", 
+            "M1", 
+            "thumbnail", 
+            "madmath-poster.jpg", 
+            null
+        ]
+    }
+}
