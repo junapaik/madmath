@@ -1,6 +1,6 @@
 <html display_name="intro" linenum="10" tex_filename="./intro.tex">
   <p>
-Welcome to the <tt class="tt">latex2edx</tt> demo course! </p>
+Welcome to the <tt class="tt">latex2edx</tt> Madmath! </p>
   <p>
 This course provides examples of some of the capabilities of the latex2edx system, which compiles [mathjaxinline]\LaTeX[/mathjaxinline] into XML code for edX courses. </p>
   <p>
