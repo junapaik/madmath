@@ -1,25 +1,37 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{edXchapter}{Introduction}
+\begin{edXchapter}{Matrix}
 
-\begin{edXsection}{Induction}
+\begin{edXsection}{ProblemSet1}
 
 \begin{edXvertical}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{edXtext}{intro}
+% Question 1
+\begin{edXproblem}{Matrix sum}{}
+  이차정사각행렬 $A$에 대하여 다음이 성립한다.
 
-Welcome to the {\tt latex2edx} Madmath!
+  $\begin{array}{l} x+3y\leq 5 \\ 2x+y\leq 5 \\x\geq 0, y\geq 0 \end{array}$
 
-This course provides examples of some of the capabilities of the
-latex2edx system, which compiles $\LaTeX$ into XML code for edX courses.
 
-The focus of this system is on providing sophisticated auto-gradable
-science, technology, engineering, and math (STEM) problems, by
-extending a document preparation system to provide interactive
-``answer boxes'' for student input and auto-grader responses.
+$A$의 모든 성분의 합은?
 
-\end{edXtext}
+\begin{edXscript}
+
+aset = [ 'x^2',
+         'x^3',
+         'x^4',
+         'x^5',
+]
+
+(ans1, ans2, ans3, ans4) = aset
+
+\end{edXscript}
+
+\edXabox{type="multichoice" 
+  expect="\$ans3"
+  options="\$ans1","\$ans2","\$ans3","\$ans4" }
+
+\end{edXproblem}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{edXvertical}
