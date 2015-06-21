@@ -1,3 +1,39 @@
 <problem display_name="Matrix sum" linenum="10" tex_filename="./intro.tex">
-  <text>&#xC774;&#xCC28;&#xC815;&#xC0AC;&#xAC01;&#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC5D0; &#xB300;&#xD558;&#xC5EC; &#xB2E4;&#xC74C;&#xC774; &#xC131;&#xB9BD;&#xD55C;&#xB2E4;. [mathjaxinline]\left\{  \begin{array}$x+3y\leq 5$\end{array}[/mathjaxinline]2x+y&#x2264;5[mathjaxinline]\\[/mathjaxinline]x&#x2265;0, y&#x2265;0&#xA0;</text>
+  <text>
+    <p>
+&#xC774;&#xCC28;&#xC815;&#xC0AC;&#xAC01;&#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC5D0; &#xB300;&#xD558;&#xC5EC; &#xB2E4;&#xC74C;&#xC774; &#xC131;&#xB9BD;&#xD55C;&#xB2E4;. </p>
+    <p>
+[mathjaxinline]\left\{  \begin{array}{l} x+3y\leq 5 \\ 2x+y\leq 5 \\ x\geq 0, y\geq 0 \end{array}[/mathjaxinline] </p>
+    <p>
+[mathjaxinline]A[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC740;? </p>
+    <script linenum="18" filename="./intro.tex" type="text/python" system_path="python_lib">
+
+aset = [ '$x^2$',
+         '$x^3$',
+         '$x^4$',
+         '$x^5$',
+]
+
+(ans1, ans2, ans3, ans4) = aset
+
+</script>
+    <p>
+      <multiplechoiceresponse>
+        <choicegroup direction="vertical">
+          <choice correct="false" name="1">
+            <text> $ans1</text>
+          </choice>
+          <choice correct="false" name="2">
+            <text> $ans2</text>
+          </choice>
+          <choice correct="true" name="3">
+            <text> $ans3</text>
+          </choice>
+          <choice correct="false" name="4">
+            <text> $ans4</text>
+          </choice>
+        </choicegroup>
+      </multiplechoiceresponse>
+    </p>
+  </text>
 </problem>
