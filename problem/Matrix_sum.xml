@@ -1,0 +1,3 @@
+<problem display_name="Matrix sum" linenum="10" tex_filename="./intro.tex">
+  <text>&#xC774;&#xCC28;&#xC815;&#xC0AC;&#xAC01;&#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC5D0; &#xB300;&#xD558;&#xC5EC; &#xB2E4;&#xC74C;&#xC774; &#xC131;&#xB9BD;&#xD55C;&#xB2E4;. [mathjaxinline]\left\{  \begin{array}$x+3y\leq 5$\end{array}[/mathjaxinline]2x+y&#x2264;5[mathjaxinline]\\[/mathjaxinline]x&#x2265;0, y&#x2265;0&#xA0;</text>
+</problem>
