@@ -2,6 +2,11 @@
   <text>
     <p>
 &#xC5ED;&#xD589;&#xB82C;&#xC774; &#xC874;&#xC7AC;&#xD558;&#xB294; &#xB450; &#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC640;[mathjaxinline]B[/mathjaxinline]&#xAC00; [mathjaxinline]A = \left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right) B[/mathjaxinline] &#xB97C; &#xB9CC;&#xC871;&#xC2DC;&#xD0AC; &#xB54C;, &#xD589;&#xB82C; [mathjaxinline]AB^{-1}+BA^{-1}[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC744; &#xAD6C;&#xD558;&#xC5EC;&#xB77C;. </p>
+    <div class="figure">
+      <p>
+        <img src="/static/images/2015midtermPractice2-figure1.pdf" width="308" style="left"/>
+      </p>
+    </div>
     <p>
       <numericalresponse answer="16">
         <textline>
@@ -39,6 +44,11 @@
           </table>
           <p>
  (1)(3)&#xC5D0;&#xC11C; [mathjaxinline]AB^{-1}+BA^{-1}=C+C^{-1}=\left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right)+\left( \begin{array}{cc} 3 &amp;  -2 \\ -7 &amp;  5 \\ \end{array} \right)=\left( \begin{array}{cc} 8 &amp;  0 \\ 0 &amp;  8 \\ \end{array} \right)[/mathjaxinline]<br/>&#xADF8;&#xB7EC;&#xBBC0;&#xB85C; [mathjaxinline]AB^{-1}+BA^{-1}[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC740; [mathjaxinline]16[/mathjaxinline] </p>
+          <div class="figure">
+            <p>
+              <img src="/static/images/2015midtermPractice2-figure1.pdf" width="308" style="left"/>
+            </p>
+          </div>
         </font>
       </solution>
     </p>
