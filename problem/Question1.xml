@@ -3,7 +3,7 @@
     <p>
 &#xC5ED;&#xD589;&#xB82C;&#xC774; &#xC874;&#xC7AC;&#xD558;&#xB294; &#xB450; &#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC640;[mathjaxinline]B[/mathjaxinline]&#xAC00; [mathjaxinline]A = \left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right) B[/mathjaxinline] &#xB97C; &#xB9CC;&#xC871;&#xC2DC;&#xD0AC; &#xB54C;, &#xD589;&#xB82C; [mathjaxinline]AB^{-1}+BA^{-1}[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC744; &#xAD6C;&#xD558;&#xC5EC;&#xB77C;. </p>
     <p>
-      <numericalresponse answer="12">
+      <numericalresponse answer="16">
         <textline>
           <responseparam type="tolerance" default="0.00001"/>
         </textline>
@@ -21,6 +21,24 @@
               <td class="eqnnum" style="width:20%;vertical-align:middle;text-align:left;border-style:hidden"/>
             </tr>
           </table>
+          <p>
+ &#xC870;&#xAC74;&#xC2DD;&#xC758; &#xC591;&#xBCC0;&#xC5D0; [mathjaxinline]A^{-1}[/mathjaxinline]&#xC744; &#xACF1;&#xD558;&#xBA74;<br/>[mathjaxinline]AA^{-1}=CBA^{-1}[/mathjaxinline]&#xC774;&#xBBC0;&#xB85C;<br/></p>
+          <table id="a0000000003" class="equation" width="100%" cellspacing="0" cellpadding="7" style="table-layout:auto">
+            <tr>
+              <td class="equation" style="width:80%;vertical-align:middle;text-align:center;border-style:hidden">[mathjax]E=CBA^{-1}[/mathjax]</td>
+              <td class="eqnnum" style="width:20%;vertical-align:middle;text-align:left;border-style:hidden"/>
+            </tr>
+          </table>
+          <p>
+ (2)&#xC758; &#xC591;&#xBCC0;&#xC5D0; [mathjaxinline]C^{-1}[/mathjaxinline]&#xC744; &#xACF1;&#xD558;&#xBA74;<br/></p>
+          <table id="a0000000004" class="equation" width="100%" cellspacing="0" cellpadding="7" style="table-layout:auto">
+            <tr>
+              <td class="equation" style="width:80%;vertical-align:middle;text-align:center;border-style:hidden">[mathjax]C^{-1}=C^{-1}CBA^{-1}=BA^{-1}[/mathjax]</td>
+              <td class="eqnnum" style="width:20%;vertical-align:middle;text-align:left;border-style:hidden"/>
+            </tr>
+          </table>
+          <p>
+ (1)(3)&#xC5D0;&#xC11C; [mathjaxinline]AB^{-1}+BA^{-1}=C+C^{-1}=\left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right)+\left( \begin{array}{cc} 3 &amp;  -2 \\ -7 &amp;  5 \\ \end{array} \right)=\left( \begin{array}{cc} 8 &amp;  0 \\ 0 &amp;  8 \\ \end{array} \right)[/mathjaxinline]<br/>&#xADF8;&#xB7EC;&#xBBC0;&#xB85C; [mathjaxinline]AB^{-1}+BA^{-1}[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC740; [mathjaxinline]16[/mathjaxinline] </p>
         </font>
       </solution>
     </p>
