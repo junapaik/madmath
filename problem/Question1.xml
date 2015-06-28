@@ -2,5 +2,27 @@
   <text>
     <p>
 &#xC5ED;&#xD589;&#xB82C;&#xC774; &#xC874;&#xC7AC;&#xD558;&#xB294; &#xB450; &#xD589;&#xB82C; [mathjaxinline]A[/mathjaxinline]&#xC640;[mathjaxinline]B[/mathjaxinline]&#xAC00; [mathjaxinline]A = \left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right) B[/mathjaxinline] &#xB97C; &#xB9CC;&#xC871;&#xC2DC;&#xD0AC; &#xB54C;, &#xD589;&#xB82C; [mathjaxinline]AB^{-1}+BA^{-1}[/mathjaxinline]&#xC758; &#xBAA8;&#xB4E0; &#xC131;&#xBD84;&#xC758; &#xD569;&#xC744; &#xAD6C;&#xD558;&#xC5EC;&#xB77C;. </p>
+    <p>
+      <numericalresponse answer="12">
+        <textline>
+          <responseparam type="tolerance" default="0.00001"/>
+        </textline>
+      </numericalresponse>
+    </p>
+    <p>
+      <solution>
+        <font color="blue">Answer: </font>
+        <font color="blue">
+          <p>
+[mathjaxinline]\left( \begin{array}{cc} 5 &amp;  2 \\ 7 &amp;  3 \\ \end{array} \right)=C[/mathjaxinline]&#xB77C;&#xACE0; &#xD558;&#xC790;.<br/>&#xC870;&#xAC74;&#xC2DD;&#xC758; &#xC591;&#xBCC0;&#xC5D0; [mathjaxinline]B^{-1}[/mathjaxinline]&#xC744; &#xACF1;&#xD558;&#xBA74; </p>
+          <table id="a0000000002" class="equation" width="100%" cellspacing="0" cellpadding="7" style="table-layout:auto">
+            <tr>
+              <td class="equation" style="width:80%;vertical-align:middle;text-align:center;border-style:hidden">[mathjax]AB^{-1}=CBB^{-1}=C[/mathjax]</td>
+              <td class="eqnnum" style="width:20%;vertical-align:middle;text-align:left;border-style:hidden"/>
+            </tr>
+          </table>
+        </font>
+      </solution>
+    </p>
   </text>
 </problem>
