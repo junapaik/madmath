@@ -1,0 +1,26 @@
+<problem display_name=" Circular sector's length of an arc and area " linenum="30" tex_filename="./content.tex">
+  <text>
+    <p>
+&#xB2E4;&#xC74C; &#xBD80;&#xCC44;&#xAF34;&#xB4E4;&#xC758; &#xD638;&#xC758; &#xAE38;&#xC774;&#xC640; &#xB113;&#xC774;&#xB97C; &#xAD6C;&#xD558;&#xC5EC;&#xB77C;. (TODO: Add answer Box) </p>
+    <ul class="itemize">
+      <li>
+        <p>
+          <img src="/static/images/p2-1.jpg" width="154"/>
+          <br/>
+        </p>
+      </li>
+      <li>
+        <p>
+          <img src="/static/images/p2-2.jpg" width="154"/>
+          <br/>
+        </p>
+      </li>
+      <li>
+        <p>
+          <img src="/static/images/p2-3.jpg" width="192"/>
+          <br/>
+        </p>
+      </li>
+    </ul>
+  </text>
+</problem>

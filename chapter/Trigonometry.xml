@@ -1,5 +1,6 @@
 <chapter display_name="Trigonometry" linenum="3" tex_filename="./content.tex" refnum="1">
   <vertical refnum="1" url_name="Trigonometry_vertical">
-    <problem url_name="Circular_sectors_length_of_an_arc_and_area_"/>
+    <problem url_name="_Radian_to_Degree_conversion_"/>
+    <problem url_name="_Circular_sectors_length_of_an_arc_and_area_"/>
   </vertical>
 </chapter>
