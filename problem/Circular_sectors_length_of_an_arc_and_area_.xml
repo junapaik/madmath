@@ -1,0 +1,14 @@
+<problem display_name="Circular sector's length of an arc and area " linenum="11" tex_filename="./content.tex">
+  <text>
+    <p>
+&#xB2E4;&#xC74C; &#xD45C;&#xC758; &#xBE48; &#xCE78;&#xC5D0; &#xC54C;&#xB9DE;&#xC740; &#xAC12;&#xC744; &#xC368; &#xB123;&#xC5B4;&#xB77C;.<br/><br/></p>
+    <p>
+ to 0.9\textwidth | X[m,c] || X[m,c] | X[m,c] | X[m,c] | X[m,c] | X[m,c] | X[m,c] | X[m,c] | X[m,c] | X[m,c] |  &#xC721;&#xC2ED;&#xBD84;&#xBC95;  [mathjaxinline]-60\degree[/mathjaxinline]   [mathjaxinline]45\degree[/mathjaxinline]   [mathjaxinline]120\degree[/mathjaxinline]  [mathjaxinline]180\degree[/mathjaxinline]  [mathjaxinline]300\degree[/mathjaxinline]  <br/>&#xD638;&#xB3C4;&#xBC95;   <big class="xlarge">[mathjaxinline]-\frac{\pi }{6}[/mathjaxinline]</big>   <big class="xlarge">[mathjaxinline]\frac{\pi }{2}[/mathjaxinline]</big>    <big class="xlarge">[mathjaxinline]\frac{4}{3}\pi[/mathjaxinline]</big>   [mathjaxinline]2\pi[/mathjaxinline] <br/> </p>
+    <p>
+      <solution>
+        <font color="blue">Answer: </font>
+        <font color="blue"/>
+      </solution>
+    </p>
+  </text>
+</problem>
