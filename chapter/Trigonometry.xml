@@ -2,5 +2,8 @@
   <vertical refnum="1" url_name="Trigonometry_vertical">
     <problem url_name="_Radian_to_Degree_conversion_"/>
     <problem url_name="_Circular_sectors_length_of_an_arc_and_area_"/>
+    <problem url_name="_Problem_3_"/>
+    <problem url_name="_Problem_4_"/>
+    <problem url_name="_Problem_5_"/>
   </vertical>
 </chapter>
