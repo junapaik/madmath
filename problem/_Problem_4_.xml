@@ -1,0 +1,20 @@
+<problem display_name=" Problem 4 " linenum="80" tex_filename="./content.tex">
+  <text>
+    <p>
+&#xB458;&#xB808;&#xC758; &#xAE38;&#xC774;&#xAC00; 20&#xC778; &#xBD80;&#xCC44;&#xAF34;&#xC758; &#xB113;&#xC774;&#xAC00; &#xCD5C;&#xB300;&#xC77C; &#xB54C;,<br/><br/><br/></p>
+    <ol class="enumerate">
+      <li value="1">
+        <p>
+&#xBC18;&#xC9C0;&#xB984;&#xC758; &#xD06C;&#xAE30;&#xB294;? <numericalresponse answer="1"><textline><responseparam type="tolerance" default="0.01"/></textline></numericalresponse> </p>
+      </li>
+      <li value="2">
+        <p>
+&#xC911;&#xC2EC;&#xAC01;&#xC758; &#xD06C;&#xAE30;&#xB294;? <numericalresponse answer="1"><textline><responseparam type="tolerance" default="0.01"/></textline></numericalresponse> </p>
+      </li>
+      <li value="3">
+        <p>
+&#xBD80;&#xCC44;&#xAF34;&#xC758; &#xB113;&#xC774;&#xB294; ? o<numericalresponse answer="1"><textline><responseparam type="tolerance" default="0.01"/></textline></numericalresponse> </p>
+      </li>
+    </ol>
+  </text>
+</problem>

@@ -1,0 +1,16 @@
+<problem display_name=" Problem 5 " linenum="95" tex_filename="./content.tex">
+  <text>
+    <p>
+&#xB2E4;&#xC74C;&#xAC01;&#xC758; &#xB3D9;&#xACBD;&#xC774; &#xB098;&#xD0C0;&#xB0B4;&#xB294; &#xC77C;&#xBC18;&#xAC01;&#xC758; &#xD06C;&#xAE30;&#xB97C; [mathjaxinline]360\degree \times n + \theta[/mathjaxinline]&#xB85C; &#xB098;&#xD0C0;&#xB0B4;&#xC5B4;&#xB77C;. (&#xB2E8;, [mathjaxinline]n[/mathjaxinline]&#xC740; &#xC815;&#xC218;, [mathjaxinline]0\leq \theta &lt;360\degree[/mathjaxinline]) <br/></p>
+    <ol class="enumerate">
+      <li value="1">
+        <p>
+[mathjaxinline]40\degree[/mathjaxinline] <numericalresponse answer="1"><textline><responseparam type="tolerance" default="0.01"/></textline></numericalresponse> </p>
+      </li>
+      <li value="2">
+        <p>
+[mathjaxinline]-380\degree[/mathjaxinline] <numericalresponse answer="1"><textline><responseparam type="tolerance" default="0.01"/></textline></numericalresponse> </p>
+      </li>
+    </ol>
+  </text>
+</problem>
