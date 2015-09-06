@@ -2,25 +2,61 @@
   <text>
     <p>
 &#xB2E4;&#xC74C; &#xBD80;&#xCC44;&#xAF34;&#xB4E4;&#xC758; &#xD638;&#xC758; &#xAE38;&#xC774;&#xC640; &#xB113;&#xC774;&#xB97C; &#xAD6C;&#xD558;&#xC5EC;&#xB77C;. (TODO: Add answer Box) </p>
-    <ul class="itemize">
-      <li>
+    <ol class="enumerate">
+      <li value="1">
         <p>
           <img src="/static/images/p2-1.jpg" width="154"/>
           <br/>
+          <p style="display:inline">[mathjaxinline]length =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
+          <p style="display:inline">[mathjaxinline]area =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
         </p>
       </li>
-      <li>
+      <li value="2">
         <p>
           <img src="/static/images/p2-2.jpg" width="154"/>
           <br/>
+          <p style="display:inline">[mathjaxinline]length =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
+          <p style="display:inline">[mathjaxinline]area =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
         </p>
       </li>
-      <li>
+      <li value="3">
         <p>
           <img src="/static/images/p2-3.jpg" width="192"/>
           <br/>
+          <p style="display:inline">[mathjaxinline]length =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
+          <p style="display:inline">[mathjaxinline]area =[/mathjaxinline] </p>
+          <numericalresponse answer="1">
+            <textline>
+              <responseparam type="tolerance" default="0.01"/>
+            </textline>
+          </numericalresponse>
         </p>
       </li>
-    </ul>
+    </ol>
   </text>
 </problem>
